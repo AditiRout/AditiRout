@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋 This is Aditi
 
-<!--
-**AditiRout/AditiRout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An ambitious and hardworking engineer wanting to explore the world of atificial intelligence and also try out new things.I am expeienced in leading teams and have good management and communication skills.I believe that team members should collaborate to bring about an achievement.
+## 🚀 Languages and Tools:
 
-Here are some ideas to get you started:
+<p align="left"> 
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  
+  ## 📊 My Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+    <a href="https://github.com/AditiRout/github-readme-stats"><img alt="Aditi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AditiRout&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AditiRout/github-readme-stats"><img alt="Aditi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiRout&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>-->
+  <br/>
+  <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/>-->
+<br/>
+
+<a href="https://github.com/AditiRout/github-readme-activity-graph"><img alt="Aditi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AditiRout&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
