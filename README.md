@@ -7,6 +7,17 @@ An ambitious and hardworking engineer wanting to explore the world of atificial 
     <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    
+## Connect with me:
+
+<p align="left">
+
+<a href = " https://www.linkedin.com/in/aditi-rout-372525215/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+
+
+</p>
+
   
   ## 📊 My Github Stats
 
