@@ -12,7 +12,7 @@ An ambitious and hardworking engineer wanting to explore the world of atificial 
 
 <p align="left">
 
-<a href = " https://www.linkedin.com/in/aditi-rout-372525215"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/aditi-rout-372525215"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 
