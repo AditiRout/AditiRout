@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Aditi
 
-An ambitious and hardworking engineer wanting to explore the world of atificial intelligence and also try out new things.I am expeienced in leading teams and have good management and communication skills.I believe that team members should collaborate to bring about an achievement.
+An ambitious and hardworking engineer wanting to explore the world of atificial intelligence and also try out new things.I am experienced in leading teams and have good management and communication skills.I believe that team members should collaborate to bring about an achievement.
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
