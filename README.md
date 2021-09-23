@@ -1,8 +1,15 @@
+
+
+<img src="https://github.com/AditiRout/AditiRout/blob/main/doodle.jpg"  width=1050px height=300px/>
 <h1 align="center">Hi there 👋 This is Aditi</h1>
 
 
 
+
+
 An ambitious and hardworking engineer wanting to explore the world of artificial intelligence and also try out new things.I am experienced in leading teams and have good management and communication skills.I believe that team members should collaborate to bring about an achievement.Currently in second year CSE branch in IIIT BBSR.
+
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
