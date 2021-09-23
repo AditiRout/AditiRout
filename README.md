@@ -1,6 +1,4 @@
-
-
-<img src="https://github.com/AditiRout/AditiRout/blob/main/doodle.jpg"  width=1050px height=300px/>
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=ecf05e47zy1uijq4hr1a1gjhrwizagfg18n6ygo6nvl71cyq&rid=giphy.gif&ct=g" width="1050" height="300" />
 <h1 align="center">Hi there 👋 This is Aditi</h1>
 
 
