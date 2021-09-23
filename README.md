@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=ecf05e47zy1uijq4hr1a1gjhrwizagfg18n6ygo6nvl71cyq&rid=giphy.gif&ct=g" width="1050" height="300" />
-<h1 align="center">Hi there 👋 This is Aditi</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> This is Aditi</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AditiRout&label=Profile%20views&color=0e75b6&style=flat" alt="AditiRout" /> </p>
 
 
 
