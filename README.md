@@ -6,8 +6,9 @@
 
 
 <p align="left"> 
-An ambitious and hardworking engineer wanting to explore the world of artificial intelligence and also try out new things.
-    I am experienced in leading teams and have good management and communication skills.I believe that team members should collaborate to bring about an achievement.Currently in second year CSE branch in IIIT BBSR.
+An ambitious and hardworking engineer wanting to explore the world of artificial intelligence and also try out new things.</p>
+<p>I am experienced in leading teams and have good management and communication skills.I believe that team members should collaborate to bring about an achievement.</p>
+Currently in second year CSE in IIIT BBSR.
 
 <img align="right" width=300px height=300px alt="side_sticker" src="https://github.com/AditiRout/AditiRout/blob/main/Cyborg.gif" />
 
@@ -25,8 +26,11 @@ An ambitious and hardworking engineer wanting to explore the world of artificial
 ## Connect with me:
 
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/aditi-rout-372525215"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/aditi-rout-372525215 " target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="left">
+<a href ="https://github.com/AditiRout"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <p align="left">
+    <a href = "https://www.instagram.com/_additiiii_/" target= "_blank"><img src="https://img.shields.io/badge/__additiiii__-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
 
