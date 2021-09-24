@@ -36,9 +36,7 @@ Currently in second year CSE in IIIT BBSR.
 
   
   ## 📊 My Github Stats
-  <img align="left" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/j37kBRJfS4VkGnh1u1/giphy.gif?cid=ecf05e479fqwybn14c5j3nlhyds6orzep17pr21xmej9bkub&rid=giphy.gif&ct=s" />
-
-  
+ 
   
   <p align="center">
     <a href="https://github.com/AditiRout/github-readme-streak-stats">
