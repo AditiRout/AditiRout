@@ -54,7 +54,7 @@ Currently in second year CSE in IIIT BBSR.
   <br/>-->
 <br/>
 
-<a href="https://github.com/AditiRout/github-readme-activity-graph"><img alt="Aditi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AditiRout&bg_color=0D1117&color=5BCDEC&line=5160B7&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AditiRout/github-readme-activity-graph"><img alt="Aditi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AditiRout&bg_color=0D1117&color=0070FF&line=8B00FF&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
