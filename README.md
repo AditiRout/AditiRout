@@ -29,6 +29,8 @@ Currently in second year CSE in IIIT BBSR.
 <a href = "https://www.linkedin.com/in/aditi-rout-372525215 " target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <p align="left">
 <a href ="https://github.com/AditiRout"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="left">
+<a href ="https://leetcode.com/AditiRout/"><img src="https://github.com/AditiRout/AditiRout/blob/main/leetcode_button_icon_151892%20(1).png"/></a>
  
 
 
