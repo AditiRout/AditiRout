@@ -8,7 +8,9 @@
 <p align="left"> 
 An ambitious and hardworking engineer wanting to explore the world of artificial intelligence and also try out new things.</p>
 <p>I am experienced in leading teams and have good management and communication skills.I believe that team members should collaborate to bring about an achievement.</p>
-Currently in second year CSE in IIIT BBSR.
+<p>Currently in second year CSE in IIIT BBSR.</p>
+
+Currently handling Management Head position at TARS IIIT-BH
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/Q7GDuwtfLIezQTQhkC/giphy.gif?cid=ecf05e47nyqovdjrctp0wm4ui04wnrhke8x2bffc8tftu4z2&rid=giphy.gif&ct=s" />
 
