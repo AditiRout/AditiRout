@@ -15,7 +15,8 @@ Currently handling Management Head position at TARS IIIT-BH
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/Q7GDuwtfLIezQTQhkC/giphy.gif?cid=ecf05e47nyqovdjrctp0wm4ui04wnrhke8x2bffc8tftu4z2&rid=giphy.gif&ct=s" />
 
 
-## 🚀 Languages and Tools:
+
+## 🚀  Languages and Tools:
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
@@ -25,7 +26,9 @@ Currently handling Management Head position at TARS IIIT-BH
     <img src="https://img.icons8.com/fluency/48/000000/opencv.png"/>
    <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
    
-## Connect with me:
+</p>
+
+## <img align="left" src="https://github.com/AditiRout/UI-UX-designs/blob/master/newg.gif" width="50" height="30"/>Connect with me:
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/aditi-rout-372525215 " target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -38,8 +41,9 @@ Currently handling Management Head position at TARS IIIT-BH
 
 </p>
 
-  
-  ## 📊 My Github Stats
+
+
+  ## 📊  My Github Stats
  
   
   <p align="center">
