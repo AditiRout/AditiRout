@@ -29,7 +29,7 @@ Currently handling Management Head position at TARS IIIT-BH
    
 </p>
 
-## <img align="left" src="https://github.com/AditiRout/UI-UX-designs/blob/master/newg.gif" width="50" height="30"/>Connect with me:
+## <img align="left" src="https://github.com/AditiRout/UI-UX-designs/blob/master/Untitled_1.gif" width="50" height="30"/>Connect with me:
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/aditi-rout-372525215 " target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
