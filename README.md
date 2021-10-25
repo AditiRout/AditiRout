@@ -51,7 +51,7 @@ Currently handling Management Head position at TARS IIIT-BH
     <a href="https://github.com/AditiRout/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aditi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AditiRout&theme=synthwave&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
-</p>
+<!-- </p> -->
 
   <br/>
     <a href="https://github.com/AditiRout/github-readme-stats"><img alt="Aditi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AditiRout&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
@@ -62,6 +62,6 @@ Currently handling Management Head position at TARS IIIT-BH
 <br/>
 
 <a href="https://github.com/AditiRout/github-readme-activity-graph"><img alt="Aditi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AditiRout&bg_color=0D1117&color=E5289E&line=e2e9ec&point=ef8539&hide_border=true" /></a>
-
+</p>
 <br/>
 <br/>
