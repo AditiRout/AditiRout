@@ -61,7 +61,7 @@ Currently handling Management Head position at TARS IIIT-BH
   <br/>-->
 <br/>
 
-<a href="https://github.com/AditiRout/github-readme-activity-graph"><img alt="Aditi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AditiRout&bg_color=0D1117&color=E5289E&line=8B00FF&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AditiRout/github-readme-activity-graph"><img alt="Aditi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AditiRout&bg_color=0D1117&color=E5289E&line=ef8539&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
