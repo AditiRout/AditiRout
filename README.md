@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l3q2FeqYCPIOqVYZO/giphy.gif" width="1050" height="300" />
+<img src="https://media.giphy.com/media/8PEbUBEwxktyNeqVZ4/giphy.gif" width="1000" height="300" />
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> This is Aditi</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AditiRout&label=Profile%20views&color=0e75b6&style=flat" alt="AditiRout" /> </p>
 
