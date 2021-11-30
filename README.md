@@ -12,13 +12,31 @@ An ambitious and hardworking engineer wanting to explore the world of artificial
 
 Currently handling Management Head position at TARS IIIT-BH
 
-<img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
+<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
+<div>
 
 
 
-## 🚀  Languages and Tools:
 
-<p align="left"> 
+# <img align="left" src="https://github.com/AditiRout/UI-UX-designs/blob/master/Untitled_1.gif" width="50" height="30"/>Connect with me:
+
+<p align="left">
+<a href = "https://www.linkedin.com/in/aditi-rout-372525215 " target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="left">
+<a href ="https://github.com/AditiRout"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="left">
+<a href ="https://leetcode.com/AditiRout/"><img src="https://github.com/AditiRout/AditiRout/blob/main/leetcode_button_icon_151892%20(1).png"/></a>
+ </div>
+<br>
+
+
+</p>
+<div align="center">
+   <br>
+
+<h1 align="center" margin-top="20px">🚀  Languages and Tools</h1>
+
+<p align="center"> 
     <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
@@ -29,19 +47,6 @@ Currently handling Management Head position at TARS IIIT-BH
     <img src="https://github.com/AditiRout/UI-UX-designs/blob/master/spark.png" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
    
-</p>
-
-## <img align="left" src="https://github.com/AditiRout/UI-UX-designs/blob/master/Untitled_1.gif" width="50" height="30"/>Connect with me:
-
-<p align="left">
-<a href = "https://www.linkedin.com/in/aditi-rout-372525215 " target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<p align="left">
-<a href ="https://github.com/AditiRout"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<p align="left">
-<a href ="https://leetcode.com/AditiRout/"><img src="https://github.com/AditiRout/AditiRout/blob/main/leetcode_button_icon_151892%20(1).png"/></a>
- 
-
-
 </p>
 
 
