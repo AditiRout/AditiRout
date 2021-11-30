@@ -27,6 +27,7 @@ Currently handling Management Head position at TARS IIIT-BH
    <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
     <img src="https://github.com/AditiRout/UI-UX-designs/blob/master/spark.png" width="50" height="50"/>
+    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
    
 </p>
 
