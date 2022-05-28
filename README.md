@@ -5,27 +5,31 @@
 
 
 
-<p align="left"> 
-An ambitious and hardworking engineer wanting to explore the world of artificial intelligence and also try out new things.</p>
+<div>
 <p>Interest in Web development and ML</p>
 <p>Experienced in leading teams and have good management and communication skills.</p>
 <p>Currently in second year CSE in IIIT BBSR.</p>
-Currently the Joint Secretary at TARS IIIT-BH
-
+<p>Currently the Joint Secretary at TARS IIIT-BH</p>
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
+
+</div>
+
+
+
 <div>
 
 
 
 
 # <img align="left" src="https://github.com/AditiRout/UI-UX-designs/blob/master/Untitled_1.gif" width="50" height="30"/>Connect with me:
-
+ 
 <p align="left">
 <a href = "https://www.linkedin.com/in/aditi-rout-372525215 " target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <p align="left">
 <a href ="https://github.com/AditiRout"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <p align="left">
 <a href ="https://leetcode.com/AditiRout/"><img src="https://github.com/AditiRout/AditiRout/blob/main/leetcode_button_icon_151892%20(1).png"/></a>
+
  </div>
 <br>
 
