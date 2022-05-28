@@ -6,11 +6,11 @@
 
 
 <p align="left"> 
-An ambitious and hardworking engineer wanting to explore the world of artificial intelligence and also try out new things.Currently learning ML and Web Development.</p>
-<p>I am experienced in leading teams and have good management and communication skills.I believe that team members should collaborate to bring about an achievement.</p>
+An ambitious and hardworking engineer wanting to explore the world of artificial intelligence and also try out new things.</p>
+<p>Interest in Web development and ML</p>
+<p>Experienced in leading teams and have good management and communication skills.</p>
 <p>Currently in second year CSE in IIIT BBSR.</p>
-
-Currently handling Management Head position at TARS IIIT-BH
+Currently the Joint Secretary at TARS IIIT-BH
 
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
 <div>
