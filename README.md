@@ -61,6 +61,7 @@
  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
  <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
+ <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
  
    
  
