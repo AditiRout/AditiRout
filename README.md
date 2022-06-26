@@ -6,7 +6,7 @@
 
 
 <div>
-<p>Interest in Web development and ML</p>
+<p>Interest in Web development and Cloud Computing</p>
 <p>Experienced in leading teams and have good management and communication skills.</p>
 <p>Currently in second year CSE in IIIT BBSR.</p>
 <p>Currently the Joint Secretary at TARS IIIT-BH</p>
