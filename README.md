@@ -66,7 +66,7 @@
    
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=48px height=48px />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-color-tal-revivo.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-color-tal-revivo.png" width=48px height=48px/>
  
 
           
