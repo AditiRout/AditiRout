@@ -6,9 +6,9 @@
 
 
 <div>
-<p>Interest in Web development and Cloud Computing</p>
+<p>Web Developer</p>
 <p>Experienced in leading teams and have good management and communication skills.</p>
-<p>Currently in second year CSE in IIIT BBSR.</p>
+<p>Currently in third year CSE in IIIT BBSR.</p>
 <p>Currently the Joint Secretary at TARS IIIT-BH</p>
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
 
