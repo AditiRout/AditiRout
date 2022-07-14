@@ -41,10 +41,13 @@
 <h1 align="center" margin-top="20px">🚀  Languages and Tools</h1>
 
 <p align="center"> 
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+
+  
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+   
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
+   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/opencv.png"/>
    <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
@@ -60,6 +63,8 @@
  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
  <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
+ <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+ 
   <img alt="expressJS" title="Express.js" src="https://i.imgur.com/K0Fsh3w.png" height="50px" width="auto"  />
  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
  
@@ -67,6 +72,8 @@
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=48px height=48px />
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-color-tal-revivo.png" width=48px height=48px/>
+  <img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/>
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
  
 
           
