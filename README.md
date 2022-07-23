@@ -74,6 +74,8 @@
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-color-tal-revivo.png" width=48px height=48px/>
   <img src="https://img.icons8.com/color/48/000000/chakra-ui.png"/>
   <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
+  <img src="https://img.icons8.com/fluency-systems-regular/48/000000/nextjs.png"/>
  
 
           
