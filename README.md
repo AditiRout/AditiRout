@@ -6,7 +6,7 @@
 
 
 <div>
-<p>Web Developer</p>
+<p>Full Stack Developer</p>
 <p>Experienced in leading teams and have good management and communication skills.</p>
 <p>Currently in third year CSE in IIIT BBSR.</p>
 <p>Currently the Joint Secretary at TARS IIIT-BH</p>
