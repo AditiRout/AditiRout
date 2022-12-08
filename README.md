@@ -77,6 +77,7 @@
   <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
   <img src="https://img.icons8.com/fluency-systems-regular/48/000000/nextjs.png"/>
+ <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" style="height:48px;">
  
 
           
