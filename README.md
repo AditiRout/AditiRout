@@ -51,7 +51,6 @@
     <img src="https://img.icons8.com/fluency/48/000000/opencv.png"/>
    <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-    <img src="https://github.com/AditiRout/UI-UX-designs/blob/master/spark.png" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
    <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
