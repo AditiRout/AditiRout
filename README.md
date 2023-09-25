@@ -8,8 +8,8 @@
 <div>
 <p>Full Stack Developer</p>
 <p>Experienced in leading teams and have good management and communication skills.</p>
-<p>Currently in third year CSE in IIIT BBSR.</p>
-<p>Currently the Joint Secretary at TARS IIIT-BH</p>
+<p>Currently in fourth year CSE in IIIT BBSR.</p>
+
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
 
 </div>
@@ -65,10 +65,10 @@
  <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
  <img src="https://img.icons8.com/color/48/000000/redux.png"/>
  
+ 
   <img alt="expressJS" title="Express.js" src="https://i.imgur.com/K0Fsh3w.png" height="50px" width="auto"  />
  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
- 
-   
+<img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=48px height=48px />
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-twilio-is-a-cloud-communications-platform-as-a-service-company-logo-color-tal-revivo.png" width=48px height=48px/>
