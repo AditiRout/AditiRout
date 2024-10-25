@@ -8,7 +8,6 @@
 <div>
 <p>Full Stack Developer</p>
 <p>Experienced in leading teams and have good management and communication skills.</p>
-<p>Currently in fourth year CSE in IIIT BBSR.</p>
 
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
 
